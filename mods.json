@@ -1,0 +1,199 @@
+{
+    "ads": {
+		"showAds": true,
+		"bannerAd": "admob",
+		"interstitialAd": "admob",
+		"nativeAd": "max",
+        "rewardAd": "max",
+        "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+        "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+        "admobNative": "ca-app-pub-3940256099942544/2247696110",
+        "admobReward": "ca-app-pub-3940256099942544/5224354917",
+        "fbBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "fbInterstitial": "IMG_16_9_LINK#6081906371842532_6081908768508959",
+        "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "ironsourceApi": "1011dee21",
+        "maxBanner": "6db1491f2e21970c",
+        "maxInterstitial": "812b82d9e0c7cb7f",
+        "maxNative": "64ea2f2ef41edb34",
+        "maxReward": "64ea2f2ef41edb34",
+        "interstitialClickNumActivities": 1,
+        "interstitialClickNumList": 3
+        
+    },
+    "settings": {
+        "showLog": true,
+        "target_game_package": "com.studio27.MelonPlayground",
+        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+		"allow_download_on_error": false,
+        "review": {
+			"show": true,
+			"session": 0,
+			"type": "normal",
+			"img": "https://www.clipartmax.com/png/middle/218-2186225_android-icon-android-app-icon-png.png",
+			"title": "Rate US",
+			"description": "How much you will rate our app?",
+			"force_rate": false,
+			"open": "normal",
+			"min_stars": 3
+		}
+    },
+    "info": {
+        "term_of_use": "The term '[business name]' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. Our company registration number is [company registration number and place of registration]. The term 'you' refers to the user or viewer of our website.",
+        "privacy_policy": "A cookie is a small computer file or piece of information that may be stored in your computer's hard drive when you visit our websites. We may use cookies to improve our website’s functionality and in some cases, to provide visitors with a customized online experience. Cookies are widely used and most web browsers are configured initially to accept cookies automatically. You may change your Internet browser settings to prevent your computer from accepting cookies or to notify you when you receive a cookie so that you may decline its acceptance. Please note, however, if you disable cookies, you may not experience optimal performance of our website."
+    },
+    "more_apps": [{
+            "title": "App 1",
+            "img": "https://media.tenor.com/Tx1GXQX9NsMAAAAC/iersell.gif",
+            "url": "https://google.com"
+        }, {
+            "title": "App 2",
+            "img": "https://media.tenor.com/LMpVMsVPmVEAAAAC/mobile-application-digital-marketing.gif",
+            "url": "https://google.com"
+        }, {
+            "title": "App 3",
+            "img": "https://media.tenor.com/ll3p9NXv7tUAAAAC/digibyte-dgb.gif",
+            "url": "https://google.com"
+        }
+    ],
+    "instruction": [{
+            "description": "STEP 1",
+            "img": "https://cdn.pixabay.com/photo/2015/10/30/10/43/help-1013700__340.jpg"
+        }, {
+            "description": "STEP 2",
+            "img": "https://cdn.pixabay.com/photo/2015/10/30/10/43/help-1013700__340.jpg"
+        }, {
+            "description": "STEP 3",
+            "img": "https://cdn.pixabay.com/photo/2015/10/30/10/43/help-1013700__340.jpg"
+        }
+    ],
+    "mods": [{
+            "category": "popular",
+            "items": [{
+                    "title": "ADDON 1",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 2",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 3",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "clothes",
+            "items": [{
+                    "title": "ADDON 4",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 5",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 6",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "weapons",
+            "items": [{
+                    "title": "ADDON 7",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 8",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 9",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "animals",
+            "items": [{
+                    "title": "ADDON 10",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 11",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 12",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+                }
+            ]
+        }, {
+            "category": "cars",
+            "items": [{
+                    "title": "ADDON 13",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 14",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": false
+                }, {
+                    "title": "ADDON 15",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+                }
+            ]
+        }
+    ]
+
+}
