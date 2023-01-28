@@ -71,10 +71,11 @@
     "mods": [{
             "category": "popular",
             "items": [{
-                    "title": "ADDON 1",
-                    "description": "ADDON 1 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "title": "Hotline Miami Weapon Pack",
+                    "description": "The mod adds quite a few edged weapons from the game Hotline Miami to the game. To play comfortably, you need to disable collision at the item, attach a knife to it and enjoy Hotline Miami.",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/1.png", 
+			       "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
