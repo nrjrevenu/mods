@@ -71,11 +71,12 @@
     "mods": [{
             "category": "Cars",
             "items": [{
+		  	    
                     "title": "Car 1",
                     "description": "description":"This mod adds a new Car in Melon Playground. Enjoy.",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg"], 
-			       "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png"],
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg"
+		    ,"https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/aCar.zip",
                     "locked": false
                 }, {
@@ -83,15 +84,17 @@
                     "description": "This mod adds a new Car in Melon Playground. Enjoy",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/aCar2.zip",
+                    ,"https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/aCar.zip",
                     "locked": false
                 }, {
                     "title": "Cars 3",
                     "description": "This mod adds a new Car in Melon Playground. Enjoy",
                     "thumb": "preview":"https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg",
                     "images": ["preview":"https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/aMashina.zip",
-                    "locked": true
+                    ,"https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/aCar.zip",
+                    "locked": false
                 },
 		      {
                     "title": "Roblox Doors Characters",
@@ -131,7 +134,8 @@
                     "title": "ADDON 5",
                     "description": "ADDON 2 Description",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", 
+			       "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
@@ -181,7 +185,8 @@
                     "title": "ADDON 11",
                     "description": "ADDON 2 Description",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", 
+			       "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
