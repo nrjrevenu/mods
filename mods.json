@@ -23,7 +23,7 @@
         
     },
     "settings": {
-        "showLog": false,
+        "showLog": true,
         "target_game_package": "com.studio27.MelonPlayground",
         "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
 		"allow_download_on_error": false,
