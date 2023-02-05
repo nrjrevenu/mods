@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": false,
+		"showAds": true,
 		"bannerAd": "admob",
 		"interstitialAd": "admob",
 		"nativeAd": "max",
@@ -14,11 +14,11 @@
         "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "ironsourceApi": "1011dee21",
-        "maxBanner": "3d6a2722d03b2abd",
-        "maxInterstitial": "e7057125f32a009b",
-        "maxNative": "e7057125f32a009b",
-        "maxReward": "e7057125f32a009b",
-        "interstitialClickNumActivities": 2,
+        "maxBanner": "6db1491f2e21970c",
+        "maxInterstitial": "812b82d9e0c7cb7f",
+        "maxNative": "64ea2f2ef41edb34",
+        "maxReward": "64ea2f2ef41edb34",
+        "interstitialClickNumActivities": 1,
         "interstitialClickNumList": 3
         
     },
@@ -28,7 +28,7 @@
         "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
 		"allow_download_on_error": false,
         "review": {
-			"show": false,
+			"show": true,
 			"session": 0,
 			"type": "normal",
 			"img": "https://www.clipartmax.com/png/middle/218-2186225_android-icon-android-app-icon-png.png",
@@ -71,49 +71,24 @@
     "mods": [{
             "category": "popular",
             "items": [{
-                    "title": "Hotline Miami Weapon Pack",
-                    "description": "The mod adds quite a few edged weapons from the game Hotline Miami to the game. To play comfortably, you need to disable collision at the item, attach a knife to it and enjoy Hotline Miami.",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/1.png", 
-			       "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png"],
+                    "title": "ADDON 1",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "BMW E34",
-                    "description": "BMW E34 mod for Melon Playground",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/10/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/18/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/12/1.png"],
+                    "title": "ADDON 2",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "Roblox Doors Characters",
-                    "description": "Roblox Doors Characters\n\nMod for almost all characters from the popular game from Roblox, Doors\n\n• Timothy the Spider\n• Ambush\n• Rush \n• Scratch \n• Hult \n• Eyes \n• Jack \n• Sic \n• Figure \n• Cabinet\n• Sic and Figure(npc)\n\nRooms:\n• Ordinary rooms (with black wallpaper and green wallpaper)\n• Hult rooms (with blue light and stripes)",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
-                },
-		      {
-                    "title": "Roblox Doors Characters",
-                    "description": "Roblox Doors Characters\n\nMod for almost all characters from the popular game from Roblox, Doors\n\n• Timothy the Spider\n• Ambush\n• Rush \n• Scratch \n• Hult \n• Eyes \n• Jack \n• Sic \n• Figure \n• Cabinet\n• Sic and Figure(npc)\n\nRooms:\n• Ordinary rooms (with black wallpaper and green wallpaper)\n• Hult rooms (with blue light and stripes)",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
-                },
-	     {
-                    "title": "Roblox Doors Characters",
-                    "description": "Roblox Doors Characters\n\nMod for almost all characters from the popular game from Roblox, Doors\n\n• Timothy the Spider\n• Ambush\n• Rush \n• Scratch \n• Hult \n• Eyes \n• Jack \n• Sic \n• Figure \n• Cabinet\n• Sic and Figure(npc)\n\nRooms:\n• Ordinary rooms (with black wallpaper and green wallpaper)\n• Hult rooms (with blue light and stripes)",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
-                },
-{
-                    "title": "Roblox Doors Characters",
-                    "description": "Roblox Doors Characters\n\nMod for almost all characters from the popular game from Roblox, Doors\n\n• Timothy the Spider\n• Ambush\n• Rush \n• Scratch \n• Hult \n• Eyes \n• Jack \n• Sic \n• Figure \n• Cabinet\n• Sic and Figure(npc)\n\nRooms:\n• Ordinary rooms (with black wallpaper and green wallpaper)\n• Hult rooms (with blue light and stripes)",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "title": "ADDON 3",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": true
                 }
@@ -196,24 +171,24 @@
         }, {
             "category": "cars",
             "items": [{
-                    "title": "Car 1",
-                    "description": "This mod adds a new Car in Melon Playground. Enjoy",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg"],
+                    "title": "ADDON 13",
+                    "description": "ADDON 1 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "Car 2",
-                    "description": "This mod adds a new Car in Melon Playground",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/4/1.jpg",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/5/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/6/1.jpg"],
+                    "title": "ADDON 14",
+                    "description": "ADDON 2 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "Car 3",
-                    "description": "This mod adds a new Car in Melon Playground",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/7/1.jpg",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/8/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/9/1.jpg"],
+                    "title": "ADDON 15",
+                    "description": "ADDON 3 Description",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": true
                 }
