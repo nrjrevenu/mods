@@ -69,30 +69,47 @@
         }
     ],
     "mods": [{
-            "category": "popular",
+            "category":"Cars",
             "items": [{
-                    "title": "ADDON 1",
-                    "description": "ADDON 1 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Car 1",
+                    "description": "description":"This mod adds a new Car in Melon Playground. Enjoy",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/1/aCar.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 2",
-                    "description": "ADDON 2 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "cars 2",
+                    "description": "This mod adds a new Car in Melon Playground. Enjoy",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/2/aCar2.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 3",
-                    "description": "ADDON 3 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "cars 3",
+                    "description": "This mod adds a new Car in Melon Playground. Enjoy",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/aMashina.zip",
                     "locked": true
                 }
+				, {
+                    "title": "cars 3",
+                    "description": "This mod adds a new Car in Melon Playground. Enjoy",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/aMashina.zip",
+                    "locked": true
+                }, {
+                    "title": "cars 3",
+                    "description": "This mod adds a new Car in Melon Playground. Enjoy",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/cars/3/aMashina.zip",
+                    "locked": true
+                }
+				
             ]
+			
         }, {
             "category": "clothes",
             "items": [{
