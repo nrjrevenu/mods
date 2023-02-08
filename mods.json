@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "admob",
 		"interstitialAd": "admob",
 		"nativeAd": "max",
@@ -23,7 +23,7 @@
         
     },
     "settings": {
-        "showLog": true,
+        "showLog": false,
         "target_game_package": "com.studio27.MelonPlayground",
         "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
 		"allow_download_on_error": false,
@@ -92,22 +92,22 @@
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/3/InfectedMelon.zip",
                     "locked": false
                 },{
-                    "title": "ADDON 1",
-                    "description": "ADDON 1 Description",
+                    "title": "One Punch Man",
+                    "description": "Pack For One Punch Man pack includes All are not slick and cut!",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 2",
-                    "description": "ADDON 2 Description",
+                    "title": "Pack of weapons",
+                    "description": "16 different weapons and 1 knife",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 3",
-                    "description": "ADDON 3 Description",
+                    "title": "Tiger II",
+                    "description": "owerful military equipment - German Tiger II tank for Melon Playground.",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/6/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/6/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/6/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
