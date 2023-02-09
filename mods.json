@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "admob",
 		"interstitialAd": "admob",
 		"nativeAd": "max",
@@ -203,53 +203,95 @@
                 }
             ]
         }, {
-            "category": "weapons",
+            "category": "tanks",
             "items": [{
-                    "title": "ADDON 7",
-                    "description": "ADDON 1 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "GAZ Tiger - constructor",
+                    "description": "Using this mod you have to assemble the Tiger from the constructor",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/6/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/6/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/6/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/6/gaztiger.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 8",
-                    "description": "ADDON 2 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Air Defense",
+                    "description": "Additions:Turret basenprojectile theory it shoots. Mount the cannon as shown on the cover. So that she can turn around",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/7/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/7/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/7/Airdeffense.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 9",
-                    "description": "ADDON 3 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
+                    "title": "Su-34 in different camouflages",
+                    "description": "The pack contains several fighters in different colors: Forest camouflage",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/8/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/8/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/8/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/8/suu34.zip",
+                    "locked": false
+                }, {
+                    "title": "Tank T-90",
+                    "description": "Mod for the Russian T-90 tank with desert camouflage",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/10/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/10/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/10/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/10/tanktt.zip",
+                    "locked": false
+                }, {
+                    "title": "Katyusha",
+                    "description": "It adds the Soviet multiple launch rocket system - Katyusha",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/11/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/11/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/11/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/11/kathyusha.zip",
+                    "locked": false
+                }, {
+                    "title": "KB-2",
+                    "description": "The mod adds a heavy tank KV 2 from World War 2. The author is indicated in the screenshot. Get it from the official discord",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/12/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/12/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/12/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/12/kb2.zip",
+                    "locked": false
                 }
             ]
         }, {
-            "category": "animals",
+            "category": "Premium tanks",
             "items": [{
-                    "title": "ADDON 10",
-                    "description": "ADDON 1 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Tank BT-7",
+                    "description": "Adds a light tank BT 7 familiar from the game WOT",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/13/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/13/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/13/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/13/bttank.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 11",
-                    "description": "ADDON 2 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Pak theme of WWII",
+                    "description": "The mod is dedicated to the theme of World War 2 and includes a couple of tanks a helicopter (off topic) and weapons",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/14/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/14/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/14/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/14/ww2them.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 12",
-                    "description": "ADDON 3 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
+                    "title": "M1 Abrams",
+                    "description": "Adds American tank M1 Abrams. Perfect for creating a tank battle themed map",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/2.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/m1abhrams.zip",
+                    "locked": false
+                } , {
+                    "title": "Leopard 2a7 - modern tank",
+                    "description": "Mod for a modern German tank Leopard 2a7. but we hope that Melon Playground developers will implement this feature soon",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/17/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/17/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/17/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/17/leoopard.zip",
+                    "locked": false
+                }, {
+                    "title": "Military equipment 5 units",
+                    "description": "Mod several units of military vehicles, 5 in total",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/18/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/18/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/18/2.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/18/militaryarm.zip",
+                    "locked": false
+                }, {
+                    "title": "War mod – Huge War military mudpack",
+                    "description": "Mod dedicated to the theme of war from the author Alexandr Melon.",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/19/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/15/2.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/tankstechnics/19/hugewarrt.zip",
+                    "locked": false
                 }
             ]
         }, {
