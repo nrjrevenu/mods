@@ -157,28 +157,49 @@
                 }
             ]
         }, {
-            "category": "clothes",
+            "category": "airplanes",
             "items": [{
-                    "title": "ADDON 4",
-                    "description": "ADDON 1 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Helicopter Mi 24",
+                    "description": "Adds a combat Russian helicopter Mi 24 to the game. Great for creating a military map or air combat",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/1/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/1/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/1/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/1/MilMiheliop.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 5",
-                    "description": "ADDON 2 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "title": "Fighter MiG",
+                    "description": "The mod will add the Soviet fighter of the 3rd generation Mig 21. The mod was created by the admin of the Fan Melon Playground telegram group.",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/2/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/2/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/2/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/2/Migfighter.zip",
                     "locked": false
                 }, {
-                    "title": "ADDON 6",
-                    "description": "ADDON 3 Description",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
+                    "title": "Plastic planes",
+                    "description": "A small package for airplanes. They are the same size, but with different colors,Everything can be taken\nLots of different colors",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/2.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/plasticairplane.zip",
+                    "locked": false
+                }, {
+                    "title": "Mi-28N (Night Hunter)",
+                    "description": "The helicopter will be a great addition to the modern T-90 tank. Has desert camouflage",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/6/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/6/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/6/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/6/mi28h.zip",
+                    "locked": false
+                }, {
+                    "title": "Simple helicopter",
+                    "description": "The mod adds a regular transport helicopter, which is used for rescue operations and the transport of passengers.",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/10/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/10/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/extraallcategories/airplanes/2/1.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/10/helicopterr.zip",
+                    "locked": false
+                }, {
+                    "title": "Plastic planes",
+                    "description": "The mod adds a regular transport helicopter, which is used for rescue operations and the transport of passengers.",
+                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/1.jpg",
+                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/1.jpg", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/2.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/airplanes/5/plasticairplane.zip",
+                    "locked": false
                 }
             ]
         }, {
