@@ -46,15 +46,15 @@
     "Bonus Mods": [{
             "title": "App 1",
             "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
-         //   "url": "https://google.com"
+            "url": "https://google.com"
         }, {
             "title": "App 2",
             "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
-          //  "url": "https://google.com"
+            "url": "https://google.com"
         }, {
             "title": "App 3",
             "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
-           // "url": "https://google.com"
+            "url": "https://google.com"
         }
     ],
     "instruction": [{
