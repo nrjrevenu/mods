@@ -3,7 +3,7 @@
 		"showAds": true,
 		"bannerAd": "max",
 		"interstitialAd": "max",
-		"nativeAd": "max",
+		"nativeAd": "admob",
         "rewardAd": "admob",
         "admobBanner": "ca-app-pub-3940256099942544/6300978111",
         "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -16,8 +16,8 @@
         "ironsourceApi": "1011dee21",
         "maxBanner": "9429908beec58f07",
         "maxInterstitial": "e7057125f32a009b",
-        "maxNative": "64ea2f2ef41edb34",
-        "maxReward": "64ea2f2ef41edb34",
+        "maxNative": "64ea2f2ef41edb34-",
+        "maxReward": "64ea2f2ef41edb34-",
         "interstitialClickNumActivities": 1,
         "interstitialClickNumList": 3
         
