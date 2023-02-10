@@ -1,10 +1,10 @@
 {
     "ads": {
-		"showAds": false,
+		"showAds": true,
 		"bannerAd": "admob",
-		"interstitialAd": "admob",
+		"interstitialAd": "max",
 		"nativeAd": "max",
-        "rewardAd": "max",
+        "rewardAd": "admob",
         "admobBanner": "ca-app-pub-3940256099942544/6300978111",
         "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
         "admobNative": "ca-app-pub-3940256099942544/2247696110",
@@ -23,7 +23,7 @@
         
     },
     "settings": {
-        "showLog": true,
+        "showLog": false,
         "target_game_package": "com.studio27.MelonPlayground",
         "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
 		"allow_download_on_error": false,
@@ -71,40 +71,40 @@
     "mods": [{
             "category": "popular",
             "items": [{
-                    "title": "%elon Titan",
+                    "title": "Melon Titan",
                     "description": "New World War II pack",
                     "thumb": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
                     "images": ["https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg", "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Terraria's Murasama",
                     "description": "Terraria's Murasama\n\nSam's Sword from Gost Runner\nThe version from the mod on Terraria",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/Murasama.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Infected Melon",
                     "description": "Infected Watermelon Monster. Consists of different parts, can be disassembled and assembled. There is a glow effect.",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/3/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/3/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/3/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/3/InfectedMelon.zip",
-                    "locked": false
+                    "locked": true
                 },{
                     "title": "One Punch Man",
                     "description": "Pack For One Punch Man pack includes All are not slick and cut!",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/4/OnePunchMan.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Pack of weapons",
                     "description": "16 different weapons and 1 knife",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/5/stalkerguns.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Tiger II",
                     "description": "owerful military equipment - German Tiger II tank for Melon Playground.",
@@ -118,35 +118,35 @@
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/7/HotlineMiami.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "FNaF 1 Animatronics Pack",
                     "description": "Terraria's Murasama\n\nSam's Sword from Gost Runner\nThe version from the mod on Terraria",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/8/animatronics.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Venom",
                     "description": "Sprites are personally drawn",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/9/Venom.zip",
-                    "locked": false
+                    "locked": true
                 },{
                     "title": "BMW E34",
                     "description": "BMW E34 mod for Melon Playground",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/10/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/10/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/10/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/10/bmwe34.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Roblox Doors Characters",
                     "description": "almost all characters from the popular game from Roblox",
                     "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png",
                     "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/1.png"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/11/doorsmod13.zip",
-                    "locked": false
+                    "locked": true
                 }, {
                     "title": "Tiger II",
                     "description": "owerful military equipment - German Tiger II tank for Melon Playground.",
