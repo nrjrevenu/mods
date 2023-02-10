@@ -1,6 +1,6 @@
 {
     "ads": {
-		"showAds": true,
+		"showAds": false,
 		"bannerAd": "max",
 		"interstitialAd": "max",
 		"nativeAd": "max",
@@ -23,9 +23,9 @@
         
     },
     "settings": {
-        "showLog": false,
-        "target_game_package": "com.studio27.MelonPlayground",
-        "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
+        "showLog": true,
+        "target_game_package": "com.mds.mdsfplg",
+        "onesignal_app_id": "0192521e-32de-4535-8e52-7af30ece1497",
 		"allow_download_on_error": false,
         "review": {
 			"show": false,
@@ -43,18 +43,18 @@
         "term_of_use": "The term '[business name]' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. Our company registration number is [company registration number and place of registration]. The term 'you' refers to the user or viewer of our website.",
         "privacy_policy": "A cookie is a small computer file or piece of information that may be stored in your computer's hard drive when you visit our websites. We may use cookies to improve our website’s functionality and in some cases, to provide visitors with a customized online experience. Cookies are widely used and most web browsers are configured initially to accept cookies automatically. You may change your Internet browser settings to prevent your computer from accepting cookies or to notify you when you receive a cookie so that you may decline its acceptance. Please note, however, if you disable cookies, you may not experience optimal performance of our website."
     },
-    "more_apps": [{
+    "Bonus Mods": [{
             "title": "App 1",
-            "img": "https://media.tenor.com/Tx1GXQX9NsMAAAAC/iersell.gif",
-            "url": "https://google.com"
+            "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+         //   "url": "https://google.com"
         }, {
             "title": "App 2",
-            "img": "https://media.tenor.com/LMpVMsVPmVEAAAAC/mobile-application-digital-marketing.gif",
-            "url": "https://google.com"
+            "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+          //  "url": "https://google.com"
         }, {
             "title": "App 3",
-            "img": "https://media.tenor.com/ll3p9NXv7tUAAAAC/digibyte-dgb.gif",
-            "url": "https://google.com"
+            "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+           // "url": "https://google.com"
         }
     ],
     "instruction": [{
