@@ -71,10 +71,10 @@
     "mods": [{
             "category": "popular",
             "items": [{
-                    "title": "WW2 Pack",
+                    "title": "%elon Titan",
                     "description": "New World War II pack",
-                    "thumb": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/1.png",
-                    "images": ["https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png", "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/2/1.png"],
+                    "thumb": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+                    "images": ["https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg", "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg"],
                     "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
                     "locked": false
                 }, {
