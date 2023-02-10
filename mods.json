@@ -24,7 +24,7 @@
     },
     "settings": {
         "showLog": true,
-        "target_game_package": "com.mds.mdsfplg",
+        "target_game_package": "com.studio27.MelonPlayground",
         "onesignal_app_id": "0192521e-32de-4535-8e52-7af30ece1497",
 		"allow_download_on_error": true,
         "review": {
