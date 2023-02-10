@@ -1,7 +1,7 @@
 {
     "ads": {
 		"showAds": true,
-		"bannerAd": "admob",
+		"bannerAd": "max",
 		"interstitialAd": "max",
 		"nativeAd": "max",
         "rewardAd": "admob",
@@ -14,8 +14,8 @@
         "fbNative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "fbReward": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "ironsourceApi": "1011dee21",
-        "maxBanner": "6db1491f2e21970c",
-        "maxInterstitial": "812b82d9e0c7cb7f",
+        "maxBanner": "9429908beec58f07",
+        "maxInterstitial": "e7057125f32a009b",
         "maxNative": "64ea2f2ef41edb34",
         "maxReward": "64ea2f2ef41edb34",
         "interstitialClickNumActivities": 1,
@@ -28,7 +28,7 @@
         "onesignal_app_id": "34a9f669-0633-41eb-8927-1b802a8dd0a2",
 		"allow_download_on_error": false,
         "review": {
-			"show": true,
+			"show": false,
 			"session": 0,
 			"type": "normal",
 			"img": "https://www.clipartmax.com/png/middle/218-2186225_android-icon-android-app-icon-png.png",
