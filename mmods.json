@@ -43,18 +43,29 @@
         "term_of_use": "The term '[business name]' or 'us' or 'we' refers to the owner of the website whose registered office is [address]. Our company registration number is [company registration number and place of registration]. The term 'you' refers to the user or viewer of our website.",
         "privacy_policy": "A cookie is a small computer file or piece of information that may be stored in your computer's hard drive when you visit our websites. We may use cookies to improve our website’s functionality and in some cases, to provide visitors with a customized online experience. Cookies are widely used and most web browsers are configured initially to accept cookies automatically. You may change your Internet browser settings to prevent your computer from accepting cookies or to notify you when you receive a cookie so that you may decline its acceptance. Please note, however, if you disable cookies, you may not experience optimal performance of our website."
     },
-    "Bonus Mods": [{
+    "Bonus Mods": 
+	
+	[{
             "title": "App 1",
             "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
             "url": "https://google.com"
+		    "show": false
+
         }, {
             "title": "App 2",
             "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
             "url": "https://google.com"
+		    "show": false
+
         }, {
-            "title": "App 3",
-            "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
-            "url": "https://google.com"
+		
+            "title": "Melon Titan",
+                    "description": "New World War II pack",
+                    "thumb": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+                    "images": ["https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg", "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg"],
+                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
+                    "locked": true
+
         }
     ],
     "instruction": [{
