@@ -59,12 +59,10 @@
 
         }, {
 		
-            "title": "Melon Titan",
-                    "description": "New World War II pack",
-                    "thumb": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
-                    "images": ["https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg", "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg"],
-                    "source": "https://atua.iosdevsupport.biz/files/MelonAndrMainCreator/mostpopularmelsav/1/wwii.zip",
-                    "locked": true
+            "title": "App 2",
+            "img": "https://raw.githubusercontent.com/nrjrevenu/mods/main/Melon-titan.jpg",
+            "url": "https://google.com"
+		    "show": false
 
         }
     ],
